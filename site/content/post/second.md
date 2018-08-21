@@ -1,6 +1,6 @@
 ---
 title: HARMATTAN
-date: Invalid date
+date: '2013-12-19T21:10:00+01:00'
 ---
 Harmattan is here again
 
@@ -108,4 +108,4 @@ Laus Deo.
 
 \--------------------
 
-Initially written and posted as a Facebook Note on December 19, 2013 at 9:10 PM
+_Initially written and posted as a Facebook Note on December 19, 2013 at 9:10 PM_
