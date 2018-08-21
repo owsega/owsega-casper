@@ -1,5 +1,9 @@
 ---
-date: 2016-12-22T20:04:40.407Z
-title: First Post
+title: In The Beginning
+date: '2018-08-21T17:04:40+01:00'
 ---
-Tristique integer nulla, velit orci elementum posuere odit urna amet, vel est amet etiam pharetra curabitur. Risus feugiat pharetra sit dui tempor sed, malesuada metus, ut sociis elementum, placerat dolor curabitur velit. Fermentum nulla, lacus volutpat, et neque suscipit vel nisl at, suspendisse sed consectetuer in. Donec ut tellus massa, ipsum placerat tincidunt, nam nunc amet sit aenean, eleifend porttitor non fermentum. Wisi ultricies ante nec ac dignissim, in neque suscipit eu blandit et, quis imperdiet. Nulla massa velit turpis condimentum, sed vel leo magna dolor at vivamus, lorem metus odio euismod. Libero non leo. Vestibulum lacus iaculis rutrum sagittis ac, a purus, egestas turpis nulla posuere ut sed lacinia, tellus suspendisse massa et nostra. Nascetur hac, ipsum cum, sem eros, tellus suspendisse non. Netus pretium. Auctor integer ut quis urna vestibulum quis, vivamus ligula dictum vel, et amet auctor donec interdum sagittis, fusce mollis sociosqu sem aptent nullam, eu enim hymenaeos et. Ridiculus fusce interdum, vitae volutpat pulvinar mauris netus.
+Move along, there's nothing to see here yet. Or maybe there is. 🤔 Or maybe I should say, _there should be_. It does not matter anyhow.
+
+While I'd love to write something today, I will just make this submission for now and continue setting the site up. Rest assured though, I'd have lovely posts sometime soon. Of course, I have some on Medium already. I could just Ctrl-C Ctrl-V them here.
+
+So, _in the beginning_, this blog is_ tohu wa-bohu_. And I said _"Let there be words"_, and here they are.
