@@ -8,4 +8,4 @@ While I'd love to write something today, I will just make this submission for no
 
 So, _in the beginning_, this blog was _tohu wa bohu*._ And I said _"Let there be words"_, and here they are.
 
-\* _tohu wa bohu_ is often translated to empty and without form _[Read more](https://en.wikipedia.org/wiki/Tohu_wa-bohu)
+\* _tohu wa bohu_ is often translated to empty and without form [Read more](https://en.wikipedia.org/wiki/Tohu_wa-bohu) 
